@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="584" viewBox="0 0 1000 584" role="img" aria-label="DNS benchmark chart"><rect width="1000" height="584" fill="#0b111d"/><text x="36" y="49" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="23" font-weight="700" fill="#e9f0fa">WHY THE WORKLOAD MATTERS</text>
+<text x="36" y="77" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="14" font-weight="400" fill="#93a4bb">Unique labels, real websites, and random nonexistent names are different experiments</text>
+<rect x="24" y="100" width="952" height="203" rx="16" fill="#151f2e"/>
+<text x="48" y="135" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#e9f0fa">FRESH WILDCARD LABELS · P95 LATENCY</text>
+<text x="48" y="178" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Huawei</text>
+<rect x="48" y="189" width="645" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="189" width="258.7" height="14" rx="7" fill="#50deb9"/>
+<text x="758" y="201" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">200.55 ms</text>
+<text x="48" y="243" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Quad9</text>
+<rect x="48" y="254" width="645" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="254" width="563.4" height="14" rx="7" fill="#b2a2ff"/>
+<text x="758" y="266" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">436.76 ms</text>
+<rect x="24" y="320" width="952" height="203" rx="16" fill="#151f2e"/>
+<text x="48" y="356" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#e9f0fa">RANDOM NONEXISTENT .COM NAMES · MEDIAN ERROR TIME</text>
+<text x="48" y="397" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Huawei</text>
+<rect x="48" y="408" width="645" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="408" width="541.4" height="14" rx="7" fill="#50deb9"/>
+<text x="758" y="420" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">125.90 ms</text>
+<text x="48" y="462" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Quad9</text>
+<rect x="48" y="473" width="645" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="473" width="54.0" height="14" rx="7" fill="#b2a2ff"/>
+<text x="758" y="485" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">12.55 ms</text>
+<text x="36" y="559" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#93a4bb">Negative-query responses were not RCODE-classified in the original session; errors are not packet loss.</text></svg>

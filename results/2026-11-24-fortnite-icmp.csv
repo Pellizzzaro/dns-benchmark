@@ -1,0 +1,5 @@
+Date,Endpoint,IP,PacketsSent,PacketsReceived,MinMs,AverageMs,MaxMs,Notes
+2026-11-24,Fortnite Sao Paulo test,15.228.25.118,30,30,10,10,10,Windows integer-ms ICMP readings
+2026-11-24,Fortnite Sao Paulo test,15.228.25.138,30,30,10,10,10,Windows integer-ms ICMP readings
+2026-11-24,Fortnite Sao Paulo test,15.228.25.140,30,30,10,10,10,Windows integer-ms ICMP readings
+2026-11-24,Fortnite Sao Paulo test,15.228.25.156,30,30,8,8,8,Windows integer-ms ICMP readings

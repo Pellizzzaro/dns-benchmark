@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="584" viewBox="0 0 1000 584" role="img" aria-label="DNS benchmark chart"><rect width="1000" height="584" fill="#0b111d"/><text x="36" y="50" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="23" font-weight="700" fill="#e9f0fa">DNS BENCHMARK LAB</text>
+<text x="36" y="78" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="14" font-weight="400" fill="#93a4bb">November 24, 2026 · Windows 11 · milliseconds · lower is better</text>
+<rect x="24" y="100" width="952" height="214" rx="16" fill="#151f2e"/>
+<text x="48" y="133" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#e9f0fa">01  WARM · 20 COMMON DOMAINS × 5 ROUNDS</text>
+<text x="48" y="167" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Quad9</text>
+<rect x="48" y="178" width="390" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="178" width="215.3" height="14" rx="7" fill="#b2a2ff"/>
+<text x="503" y="190" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">8.28 ms</text>
+<text x="48" y="210" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Cloudflare</text>
+<rect x="48" y="221" width="390" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="221" width="236.6" height="14" rx="7" fill="#81aef7"/>
+<text x="503" y="233" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">9.10 ms</text>
+<text x="48" y="253" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Google</text>
+<rect x="48" y="264" width="390" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="264" width="321.9" height="14" rx="7" fill="#a0aec5"/>
+<text x="503" y="276" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">12.38 ms</text>
+<rect x="24" y="328" width="461" height="194" rx="16" fill="#151f2e"/>
+<text x="48" y="361" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#e9f0fa">02  REAL · 30 VARIED WEBSITES</text>
+<text x="48" y="396" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Huawei</text>
+<rect x="48" y="407" width="235" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="407" width="164.8" height="14" rx="7" fill="#50deb9"/>
+<text x="348" y="419" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">12.62 ms</text>
+<text x="48" y="451" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Quad9</text>
+<rect x="48" y="462" width="235" height="14" rx="7" fill="#27344a"/>
+<rect x="48" y="462" width="195.6" height="14" rx="7" fill="#b2a2ff"/>
+<text x="348" y="474" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">14.98 ms</text>
+<rect x="498" y="328" width="478" height="194" rx="16" fill="#151f2e"/>
+<text x="522" y="361" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#e9f0fa">03  FORTNITE · REPEATED DNS</text>
+<text x="522" y="386" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Huawei</text>
+<rect x="522" y="397" width="240" height="14" rx="7" fill="#27344a"/>
+<rect x="522" y="397" width="25.6" height="14" rx="7" fill="#50deb9"/>
+<text x="827" y="409" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">1.28 ms</text>
+<text x="522" y="425" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Quad9</text>
+<rect x="522" y="436" width="240" height="14" rx="7" fill="#27344a"/>
+<rect x="522" y="436" width="164.6" height="14" rx="7" fill="#b2a2ff"/>
+<text x="827" y="448" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">8.23 ms</text>
+<text x="522" y="464" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="400" fill="#e9f0fa">Cloudflare</text>
+<rect x="522" y="475" width="240" height="14" rx="7" fill="#27344a"/>
+<rect x="522" y="475" width="196.4" height="14" rx="7" fill="#81aef7"/>
+<text x="827" y="487" text-anchor="end" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9f0fa">9.82 ms</text>
+<text x="36" y="559" text-anchor="start" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#93a4bb">Reported aggregates only · DNS resolution ≠ in-match ping · router timings benefit from cache</text></svg>

@@ -1,0 +1,17 @@
+Date,Test,Resolver,Server,Attempts,Valid,AverageMs,MedianMs,P95Ms,P99Ms,MaxMs,MinimumMs,Interpretation
+2026-11-24,Warm varied domains,Quad9,9.9.9.9,100,100,8.28,8.28,8.56,9.23,10.98,,Repeated A lookups across 20 domains
+2026-11-24,Warm varied domains,Cloudflare,1.1.1.1,100,100,9.17,9.10,9.99,10.29,10.67,,Repeated A lookups across 20 domains
+2026-11-24,Warm varied domains,Google,8.8.8.8,100,100,15.21,12.38,26.84,63.61,64.23,,Repeated A lookups across 20 domains
+2026-11-24,Repeated single domain,Huawei,192.168.100.1,30,30,1.56,,,,9.92,1.11,github.com repeated 30 times
+2026-11-24,Repeated single domain,Quad9,9.9.9.9,30,30,8.20,,,,11.54,7.86,github.com repeated 30 times
+2026-11-24,Repeated single domain,Cloudflare,1.1.1.1,30,30,9.35,,,,11.16,8.61,github.com repeated 30 times
+2026-11-24,Repeated single domain,Google,8.8.8.8,30,30,15.25,,,,23.17,10.63,github.com repeated 30 times
+2026-11-24,Unique wildcard hostnames,Huawei,192.168.100.1,100,100,194.05,195.98,200.55,201.60,202.61,,Unique hostnames under sslip.io / nip.io
+2026-11-24,Unique wildcard hostnames,Quad9,9.9.9.9,100,100,266.41,207.07,436.76,1108.25,1207.65,,Unique hostnames under sslip.io / nip.io
+2026-11-24,Random nonexistent names,Huawei,192.168.100.1,50,0,126.78,125.90,128.33,,153.31,,All queries errored; response codes not recorded
+2026-11-24,Random nonexistent names,Quad9,9.9.9.9,50,0,32.74,12.55,117.89,,119.99,,All queries errored; response codes not recorded
+2026-11-24,Real varied domains,Huawei,192.168.100.1,30,29,49.46,12.62,192.17,,211.38,,30 distinct real domains; one failed
+2026-11-24,Real varied domains,Quad9,9.9.9.9,30,29,118.63,14.98,213.78,,1232.85,,30 distinct real domains; one failed
+2026-11-24,Fortnite Sao Paulo DNS,Huawei,192.168.100.1,20,20,1.80,1.28,,,,,Repeated test endpoint hostname
+2026-11-24,Fortnite Sao Paulo DNS,Quad9,9.9.9.9,20,20,12.65,8.23,,,,,Repeated test endpoint hostname
+2026-11-24,Fortnite Sao Paulo DNS,Cloudflare,1.1.1.1,20,20,17.24,9.82,,,,,Repeated test endpoint hostname
